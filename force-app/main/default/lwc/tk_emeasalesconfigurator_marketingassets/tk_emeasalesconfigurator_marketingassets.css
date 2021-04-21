@@ -1,0 +1,39 @@
+.c-container {
+    border: 1px solid #d8dde6;
+    margin: 10px 0 20px 0;
+}
+.page-section {
+    border: solid 1px #ccc;
+    padding: 1rem;
+    
+}
+.page-header,
+.page-footer {
+    height: 50px;
+}
+.page-main {
+    background: #f8f8f8;
+}
+.page-left,
+.page-right {
+    background: #f0efef;
+    
+}
+
+ul:not(.browser-default) li {
+    list-style-type: disc;
+}
+.strong-text {
+    font-weight: bold;
+}
+
+
+.custom-box {
+    text-align: center;
+    background-color: #f4f6f9;
+    padding: 1rem;
+    border: 1px solid #d8dde6;
+}
+.THIS {
+    width: 320px;
+}
